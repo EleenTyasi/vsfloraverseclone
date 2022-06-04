@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep >:)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "... ... ... No. Y'know what?! I am not going to be outplayed by some blue haired RUNT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "You want a fight?! An absolute shitshow?\\nFINE BY ME. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "You're about to find out what happens when\\nyou piss me off. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Too late for apologies. It's time to go to WAR?, and THERE AIN'T A SINGLE FUCK TO GIVE LEFT."
+		}
+	]
+}
