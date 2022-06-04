@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"spicedshowdown",
+			"bonnie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bonnie",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"bon",
+		"bf",
+		"gf"
+	],
+	"storyName": "Vs. Bonnie",
+	"weekName": "Vs. Bonnie",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
