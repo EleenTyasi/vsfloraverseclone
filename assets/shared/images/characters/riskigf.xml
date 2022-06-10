@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="riskigf.png">
+<SubTexture name="riskigf IDLE0000" x="0" y="0" width="1111" height="1174" frameX="-1" frameY="-34" frameWidth="1151" frameHeight="1220" />
+<SubTexture name="riskigf IDLE0001" x="1111" y="0" width="1111" height="1174" frameX="-10" frameY="-36" frameWidth="1138" frameHeight="1214" />
+<SubTexture name="riskigf IDLE0002" x="2222" y="0" width="1111" height="1174" frameX="-1" frameY="-34" frameWidth="1151" frameHeight="1220" />
+<SubTexture name="riskigf IDLE0003" x="0" y="1174" width="1111" height="1174" frameX="-10" frameY="-36" frameWidth="1138" frameHeight="1214" />
+<SubTexture name="riskigf IDLE0004" x="1111" y="1174" width="1111" height="1174" frameX="-41" frameY="-27" frameWidth="1189" frameHeight="1213" />
+</TextureAtlas>
