@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"habeneroheat",
+			"bonnie",
+			[
+				0,
+				233,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "If this appears, fire eleen!",
+	"weekName": "Hell charts",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekbon",
+	"startUnlocked": false
+}
