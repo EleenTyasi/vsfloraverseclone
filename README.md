@@ -36,5 +36,5 @@ overheat is this week's mechanic, where your HP will drain on medium and hard
 overheat is not lethal, and should not be lethal
 as long as you're still fine, this should be an easy song to deal with, but on hard, the drain is a lot more punishing, so be careful of that
 
-#Week ??? - Mechanic: TBD
+# Week ??? - Mechanic: TBD
 this one is a secret
