@@ -15,3 +15,25 @@ thank y'all
 www.floraverse.com
 it's a neat webcomic ig lol
 
+# mechanics guide
+so, here's something to know
+easy will never have mechanics; it's meant to still provide a challenge yet not to the point of frustration
+medium and hard is the dev intended difficulty
+
+beating a week is considered beating any difficulty, including easy
+
+do not be ashamed if you have to play this mod on easy! i'm not afraid to admit that i have trouble with it
+
+so, week 1's week, otherwise known as Week Bon
+
+# Week Bonnie - Mechanic: Hurt Notes
+this is an easy one to explain. hurt notes deal damage to you. avoid tapping on black and red notes (will change in future)
+on normal, hurt notes appear part way on song 2, and will appear on song 3 all the time
+on hard, all songs will have hurt notes
+
+# Week Hothead - Mechanic: Overheat
+overheat is this week's mechanic, where your HP will drain on medium and hard
+overheat is not lethal, and should not be lethal
+as long as you're still fine, this should be an easy song to deal with, but on hard, the drain is a lot more punishing, so be careful of that
+
+#Week ??? - Mechanic: TBD
