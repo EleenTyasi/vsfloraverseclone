@@ -37,8 +37,8 @@ so, week 1's week, otherwise known as Week Bon
 
 # Week Bonnie - Mechanic: Hurt Notes
 this is an easy one to explain. hurt notes deal damage to you. avoid tapping on black and red notes (will change in future)
-on normal, hurt notes appear part way on song 2, and will appear on song 3 all the time
-on hard, all songs will have hurt notes
+on normal, hurt notes appear part way on song 2, and will appear on song 3 all the time.
+on hard, all songs will have hurt notes.
 
 # Week Hothead - Mechanic: Overheat
 overheat is this week's mechanic, where your HP will drain on medium and hard
