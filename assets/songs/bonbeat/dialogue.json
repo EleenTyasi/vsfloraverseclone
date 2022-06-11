@@ -1,0 +1,348 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mom",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF and GF find themselves in a desert town, right on the edge of Eastar. The town itself, is named Horseshoe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Something's weird here, BF. I don't understand where we are, and... I swear I've seen this place before..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep, skeedooo bop, aai? Bep... Ai?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I... would be surprised if that was the case. It's not like we're strangers to weird\\ndimensional travel..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "*Stomach growls in Beep*\\nbeeeeehhp. ais, skedoo..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "... You seriously did'nt eat breakfast before hopping into some strange mystery portal???\\nWow, BF. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "B-bweeep. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After a moment of... getting lost, the two would find a place to get out of the heat."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A resturaunt; something that seems to have a delightful scent in the air, making the two travelers hungry."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "obscuredbonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll be right there! I just have to clear away a few things in the back!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The voice is softspoken; albeit the presence that this being is not immediately threatening. BF and GF, sit themselves down in a booth."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! Beep, skedooo-! Dah, bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You think this place looks familiar?\\nHow come?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beh! Ais, ska bap! Dop ka ai! *pointing*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As BF pointed in the direction of a fox with a damaged ear, appearing to be in a relaxed position, GF blinked, before her eyes go wide."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "No way. That's not at all who I think it is, is it? We might have an issue here, BF. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beskaboop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seriously. We're 'humans' in a world where, typically, those don't exist... I don't know if we're even safe to be here, but... "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think we'll be fine if we don't make ourselves too seen, while we-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HELLO THERE! WELCOME TO BONNIE'S!\\nWhat can I get you???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? Do i have something in my hair, or...\\nHhhuh. What... are you guys? I don't think I've seen you around in Horseshoe before..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhhh... We're just really weird looking drops!\\nY-yeah! Drops! (BF, just run with it...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "B-bep... behh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh. Anyways, You look like you're starving, What can I get ya?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bonnie handed the two a menu, as they chuckle a little awkwardly.  The language on the menu seems to be unreadable to them, as"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "they try to discern the language, Bonnie's eyebrow raises in curiousity. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah... uh... H-how about the ah... number two?\\nThat actually looks good. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Behh... ski...? Ka doo, Bah ai?\\nBap bopbe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... ... ... What?????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "A-ah, he's not the best with common. He's asking for the same order that I did. Except he wants... 'That Spicy Sauce, yo'. "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... Beep, GF... Bep be skedoo bopee?\\nAi, skidoo bep bop... ... ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Crap! You're right... We don't have a way to pay for it... "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, No way to pay? Like, you don't even have an IOU, or like... anything?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, uh... usually we have the money, but I left my purse back at home, so... And, it's uh, ah... quite far from here???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beeeeeeep, skedooooo~ Ski badupop!\\nBep, aiai! Skedpop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... wack?????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF's offering to entertain your guests, as well as do a rap battle for the meal.\\nHe's also, excited to perform in a new place."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A singing competition, huh? Usually, Varia is the one singing, but I'm not too shabby myself... Y'know what? You're on!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah! Skeebedoopop.~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hah! I think I like the sound of that, little dude! Let's put on a hell of a show!"
+		}
+	]
+}
