@@ -5,13 +5,22 @@ i cannot program worth beans. i'm using github primarily to track how much progr
 holy shit
 i actually made edits to the source code to actually make it look a little more professional
 
+# i wanna play it!
+cool! just know that it's not finished, so until the first week is done, there is no public release; though you can download it via downloading the code.
+there's no need to compile it, should be just a simple download.
+
+
 # psych engine
 https://github.com/ShadowMario/FNF-PsychEngine <- 
 
 y'all made this shit so easy for me to get started, and to learn how to use
 thank y'all
 
-# floraverse
+# so what exactly is this?
+it's a preview of the Vs. Floraverse mod; and as my first mod, i'm making it with a bunch of love
+though the first week is my character; the rest of the mod will eventually be characters from the webcomic 
+
+# what the heck is a floraverse
 www.floraverse.com
 it's a neat webcomic ig lol
 
@@ -28,8 +37,8 @@ so, week 1's week, otherwise known as Week Bon
 
 # Week Bonnie - Mechanic: Hurt Notes
 this is an easy one to explain. hurt notes deal damage to you. avoid tapping on black and red notes (will change in future)
-on normal, hurt notes appear part way on song 2, and will appear on song 3 all the time
-on hard, all songs will have hurt notes
+on normal, hurt notes appear part way on song 2, and will appear on song 3 all the time.
+on hard, all songs will have hurt notes.
 
 # Week Hothead - Mechanic: Overheat
 overheat is this week's mechanic, where your HP will drain on medium and hard
