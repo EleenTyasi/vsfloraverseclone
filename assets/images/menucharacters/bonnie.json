@@ -1,42 +1,42 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				1
+				2
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "bonnie_idle",
-			"indices": []
+			"loop": false,
+			"name": "bonnie_idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				3
+				5,
+				-6
 			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bonnie_left"
+		},
+		{
+			"offsets": [
+				-20,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "bonnie_down",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-3,
-				-3
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "bonnie_up",
-			"indices": []
+			"name": "bonnie_down"
 		},
 		{
 			"offsets": [
-				-18,
-				33
+				-48,
+				-7
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,21 +46,21 @@
 		},
 		{
 			"offsets": [
-				3,
-				-1
+				-46,
+				27
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "singUP",
 			"loop": false,
-			"name": "bonnie_left"
+			"name": "bonnie_up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/bonnie",
 	"position": [
 		0,
-		120
+		190
 	],
 	"healthicon": "bonnie",
 	"flip_x": false,
