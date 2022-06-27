@@ -2,7 +2,7 @@
 	"song": {
 		"sectionLengths": [],
 		"player1": "bf",
-		"player2": "mom",
+		"player2": "bonnie",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -5831,7 +5831,7 @@
 			}
 		],
 		"player3": "gf",
-		"song": "run",
+		"song": "peppersandpunches",
 		"stage": "stage",
 		"validScore": true,
 		"sections": 0,

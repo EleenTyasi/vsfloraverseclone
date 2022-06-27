@@ -1,4 +1,16 @@
 {
+	"storyName": "If this appears, fire eleen!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekbon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"habeneroheat",
@@ -10,23 +22,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
 	"weekCharacters": [
-		"dad",
+		"bonnie",
 		"bf",
 		"gf"
 	],
-	"storyName": "If this appears, fire eleen!",
-	"weekName": "Hell charts",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": true,
-	"weekBefore": "weekbon",
-	"startUnlocked": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "Hell charts"
 }

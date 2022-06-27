@@ -1,0 +1,11 @@
+{
+	"idle_anim": "bonnie_idle",
+	"image": "Menu_bonnie",
+	"position": [
+		100,
+		70
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

@@ -3,14 +3,18 @@
 	"difficulties": "Easy, Normal, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"bonnie",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"bonbeat",
@@ -40,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"bon",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Vs. Bonnie"
+	"hideStoryMode": false,
+	"weekName": "Vs. Bonnie",
+	"hiddenUntilUnlocked": false
 }
