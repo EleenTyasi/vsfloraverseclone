@@ -11,7 +11,7 @@ there's no need to compile it, should be just a simple download.
 
 
 # psych engine
-https://github.com/ShadowMario/FNF-PsychEngine <- 
+-> https://github.com/ShadowMario/FNF-PsychEngine <- 
 
 y'all made this shit so easy for me to get started, and to learn how to use
 thank y'all
@@ -26,8 +26,8 @@ it's a neat webcomic ig lol
 
 # mechanics guide
 so, here's something to know
-easy will never have mechanics; it's meant to still provide a challenge yet not to the point of frustration
-medium and hard is the dev intended difficulty
+easy will have very little mechanics; it's meant to still provide a challenge yet not to the point of frustration
+medium and hard is the dev intended difficulty however. no content is locked behind a difficulty gate however
 
 beating a week is considered beating any difficulty, including easy
 
@@ -35,15 +35,17 @@ do not be ashamed if you have to play this mod on easy! i'm not afraid to admit 
 
 so, week 1's week, otherwise known as Week Bon
 
-# Week Bonnie - Mechanic: Hurt Notes
-this is an easy one to explain. hurt notes deal damage to you. avoid tapping on black and red notes (will change in future)
-on normal, hurt notes appear part way on song 2, and will appear on song 3 all the time.
-on hard, all songs will have hurt notes.
+# Week Bonnie - Mechanic: Pressure and Crystal Notes
+Pressure starts to build near the end of song two of Week Bonnie. Pressure drains BF's HP when Bonnie sings. Hitting notes may help you to endure her pressure.
+Crystal Notes are mines that must be avoided. They hurt, and if you ain't careful, they'll KO you. 
+
+# Week Beleth - Mechanic: Puppet Notes
+Puppet Notes MUST BE HIT! They WILL KO you on hard, and deal catastrophic damage if you miss them on medium! 
+Fun Fact: The arrows match each one of Beleth's puppets, as well as themself. Hold notes are meant to have the look of Beleth's wand.
 
 # Week Hothead - Mechanic: Overheat
-overheat is this week's mechanic, where your HP will drain on medium and hard
-overheat is not lethal, and should not be lethal
+overheat is this week's mechanic, where your HP will drain quickly on medium and hard
+overheat is not lethal, and should not be lethal.
 as long as you're still fine, this should be an easy song to deal with, but on hard, the drain is a lot more punishing, so be careful of that
 
-# Week ??? - Mechanic: TBD
-this one is a secret
+
