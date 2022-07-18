@@ -3920,7 +3920,7 @@
 		"events": [],
 		"player3": null,
 		"song": "spicedshowdown",
-		"stage": "stage",
+		"stage": "weekbonnieStage",
 		"validScore": true,
 		"needsVoices": true,
 		"speed": 2.5,

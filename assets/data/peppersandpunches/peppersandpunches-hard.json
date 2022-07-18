@@ -5910,7 +5910,7 @@
 		"sections": 0,
 		"needsVoices": true,
 		"validScore": true,
-		"stage": "stage",
+		"stage": "weekbonnieStage",
 		"bpm": 110,
 		"speed": 2.5
 	}

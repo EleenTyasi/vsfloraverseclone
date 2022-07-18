@@ -1,12 +1,44 @@
 {
 	"dialogue": [
 		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "excited",
-			"text": "... Yeah!~"
+			"text": "... Yeah!~",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay... So, you're still gonna keep at it, huh? Fine by me! I'm having fun with this!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie"
+		},
+		{
+			"expression": "talk",
+			"text": "Way to go, BF! Though, I got a strange feeling like she has something she's not trying yet...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beh, Ai ai, skedupopbedu. Skadaikai. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "He's saying to step it up, dude. He's practically falling asleep here. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
 		},
 		{
 			"sound": "",
@@ -14,31 +46,7 @@
 			"portrait": "bonnie",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Okay, so you beat the first song. No big deal, dude. Let's bump up that tempo! Keep that crowd entertained!"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "Uh oh. We might be in trouble if the crowd gets too big. But she seems to have something under her sleeve... BF, be careful. "
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Beh, Ai ai, skedupopbedu. Skadaikai. "
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bonnie",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I don't like that sassy tone."
+			"text": "Sassy little shit, aren'tcha. Okay, then. We'll see who's confident after this..."
 		}
 	]
 }

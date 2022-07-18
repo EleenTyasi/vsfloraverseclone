@@ -1,44 +1,60 @@
 {
 	"dialogue": [
 		{
+			"expression": "talk",
+			"text": "beep >:)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Okay, that's it! I'm not going to play by YOUR STUPID RULES ANYMORE!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon"
+		},
+		{
+			"expression": "pissed",
+			"text": "You want a fight?! HELL WITH THAT! \\nYOU GET A BLOODY WAR!!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm not going to be so nice. I'm gonna make sure you'll go running with your tail between your legs, you jackass.",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon"
+		},
+		{
+			"expression": "talk",
+			"text": "Too late now, asshole. You wanted a fight so bad, then take your beating like a man. I'm fresh out of mercy.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bon"
+		},
+		{
 			"sound": "",
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "beep >:)"
+			"expression": "shocked",
+			"text": "beh boop."
 		},
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bon",
-			"boxState": "angry",
-			"expression": "pissed",
-			"text": "... ... ... No. Y'know what?! I am not going to be outplayed by some blue haired RUNT!"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bon",
-			"boxState": "angry",
-			"expression": "pissed",
-			"text": "You want a fight?! An absolute shitshow?\\nFINE BY ME. "
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bon",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "You're about to find out what happens when\\nyou piss me off. "
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bon",
+			"portrait": "gf",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Too late for apologies. It's time to go to WAR?, and THERE AIN'T A SINGLE FUCK TO GIVE LEFT."
+			"expression": "shocked",
+			"text": "Ohhhh... shit. "
 		}
 	]
 }

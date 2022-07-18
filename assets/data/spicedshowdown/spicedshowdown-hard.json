@@ -5421,7 +5421,7 @@
 		"player2": "bonnie",
 		"player3": null,
 		"song": "spicedshowdown",
-		"stage": "stage",
+		"stage": "weekbonnieStage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 120,

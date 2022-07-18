@@ -4953,7 +4953,7 @@
 		"song": "peppersandpunches",
 		"needsVoices": true,
 		"sections": 0,
-		"stage": "stage",
+		"stage": "weekbonnieStage",
 		"validScore": true,
 		"bpm": 110,
 		"speed": 2.5
