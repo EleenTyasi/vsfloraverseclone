@@ -42,10 +42,12 @@ Crystal Notes are mines that must be avoided. They hurt, and if you ain't carefu
 # Week Beleth - Mechanic: Puppet Notes
 Puppet Notes MUST BE HIT! They WILL KO you on hard, and deal catastrophic damage if you miss them on medium! 
 Fun Fact: The arrows match each one of Beleth's puppets, as well as themself. Hold notes are meant to have the look of Beleth's wand.
+Puppet notes only appear on Hard and Medium. 
+Crystal notes appear instead on easy. 
 
 # Week Hothead - Mechanic: Overheat
-overheat is this week's mechanic, where your HP will drain quickly on medium and hard
-overheat is not lethal, and should not be lethal.
-as long as you're still fine, this should be an easy song to deal with, but on hard, the drain is a lot more punishing, so be careful of that
-
-
+Overheat, due to the presence of a HOTHEAD type angel is a status effect. As you play the song, the aura coming from this angel singes your healthbar. 
+This singe, deals gradual HP drain while BF sings. On all difficulties however, Overheat cannot be lethal. It won't lower you beyond a quarter of your HP. 
+On hard, the drain is intense, because the angel's rage is like an eternal flame, baby. 
+On normal, the drain is fast, but managable, because he's mad, but not too mad.
+On easy, the drain is akin to Pressure. He's not mad, just grumpy. 
