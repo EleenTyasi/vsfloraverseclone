@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "weekbonnieStage",
+		"player1": "bf",
+		"player2": "bonnie",
+		"player3": null,
+		"events": [
+			[
+				74318.1818181818,
+				[
+					[
+						"Change Character",
+						"1",
+						"bonniemad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "peppersandpunches"
+	}
+}

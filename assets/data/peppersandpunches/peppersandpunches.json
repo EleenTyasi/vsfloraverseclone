@@ -2,7 +2,18 @@
 	"song": {
 		"player1": "bf",
 		"sectionLengths": [],
-		"events": [],
+		"events": [
+			[
+				74318.1818181818,
+				[
+					[
+						"Change Character",
+						"1",
+						"bonniemad"
+					]
+				]
+			]
+		],
 		"gfVersion": "gf",
 		"notes": [
 			{
@@ -5825,6 +5836,26 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 110
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 110,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
