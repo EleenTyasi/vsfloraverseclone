@@ -1,13 +1,14 @@
 function onCreate()
 	-- lua is weird. gotta snap BF's neck every time i wanna reload the lua
-	makeLuaSprite('WBback', 'WBback', -150, -250);
-	setScrollFactor('WBback', 0.5, 0.5);
+	makeLuaSprite('WBback', 'WBback', -225, -300);
+	-- this is bad dumb code, and more importantly it's bad dumb code that makes no fucking sense
+	setScrollFactor('WBback', 0.6, 0.6);
 	-- try and scale this down to allow this to be a bit more visible
-	scaleObject('WBback', 0.8, 0.8);
-
-	makeLuaSprite('WBfront', 'WBfront', -600, 600);
-	setScrollFactor('WBfront', 0.9, 0.9);
-	scaleObject('WBfront', 1.1, 1.1);
+	scaleObject('WBback', 0.7, 0.7);
+	-- what in the name of shit is this positioning??????
+	makeLuaSprite('WBfront', 'WBfront', -600, 675);
+	setScrollFactor('WBfront', 0.80, 0.80);
+	scaleObject('WBfront', 1.0, 1.0);
 
 
 	addLuaSprite('WBback', false);
