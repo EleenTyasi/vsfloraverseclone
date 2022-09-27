@@ -1,11 +1,12 @@
 local pressure = 0.01
 function noteMiss()
     if pressure >= 0.01 then
-        pressure = pressure + 0.01;
+        pressure = pressure + 0.001;
     end
 end
 
 function goodNoteHit()
+
 end
 
 function onBeatHit()

@@ -1,6 +1,6 @@
 Artists
-Milcano_Arts::milcano::Animated Bonnie::https://www.fiverr.com/milcano_arts::0xFFFF78BF
-Samael::samael::Polished up Week Bonnie's stage design::https://twitter.com/Samael101::0xFFFF78BF
+milcano_Arts::milcano::Animated Bonnie::https://www.fiverr.com/milcano_arts::0xFFFF78BF
+Samael::smam::Polished up Week Bonnie's stage design::https://twitter.com/Samael101::0xFFFF78BF
 Charter
 RaidBossKing::raid::Charting Assistance::link::0xFFFF78BF
 Developer

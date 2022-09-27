@@ -6,9 +6,7 @@ holy shit
 i actually made edits to the source code to actually make it look a little more professional
 
 # i wanna play it!
-cool! just know that it's not finished, so until the first week is done, there is no public release; though you can download it via downloading the code.
-there's no need to compile it, should be just a simple download.
-
+cool! check the releases tab for more information!
 
 # psych engine
 -> https://github.com/ShadowMario/FNF-PsychEngine <- 
@@ -37,7 +35,8 @@ so, week 1's week, otherwise known as Week Bon
 
 # Week Bonnie - Mechanic: Pressure and Crystal Notes
 Pressure starts to build near the end of song two of Week Bonnie. Pressure drains BF's HP when Bonnie sings. Hitting notes may help you to endure her pressure.
-Crystal Notes are mines that must be avoided. They hurt, and if you ain't careful, they'll KO you. 
+Crystal notes have been changed! Crystal notes now instead deal minor damage to BF when hit, but deal massive damage when missed! These notes should be hit; or else you're in for 
+a world of hurt!
 
 # Week Beleth - Mechanic: Puppet Notes
 Puppet Notes MUST BE HIT! They WILL KO you on hard, and deal catastrophic damage if you miss them on medium! 

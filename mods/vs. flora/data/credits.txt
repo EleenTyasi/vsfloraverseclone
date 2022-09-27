@@ -1,8 +1,8 @@
-Lua Scripter
-Speedy::speedy::Week 2's mechanic: Overheat::https://www.youtube.com/channel/UCHlYazV8j5E_f4yz_S8PPhA::0xFFFF78BF
+Artists
+milcano_Arts::milcano::Animated Bonnie::https://www.fiverr.com/milcano_arts::0xFFFF78BF
+Samael::smam::Polished up Week Bonnie's stage design::https://twitter.com/Samael101::0xFFFF78BF
 Charter
-Alyx::alyx::Charting and Modcharting Assistance: PeppersAndPunches and BonBeat::link::0xFFFF78bf
-RaidBossKing::raid::Charting Assistance: SpicedShowdown::link::0xFFFF78BF
+RaidBossKing::raid::Charting Assistance::link::0xFFFF78BF
 Developer
 Eleen::eleen::Plushcat Developer::https://www.youtube.com/channel/UC0szNIccKBHumvT4wMjDd3g::0xFFFF78BF
 Composers

@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				630,
+				-249
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				553,
+				-249
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				623,
+				-233
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				555,
+				-247
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				623,
+				-249
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "bel idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				623,
+				-249
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "bel idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				16,
+				18,
+				19,
+				20,
+				21,
+				22,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/belsprites",
+	"position": [
+		700,
+		-60
+	],
+	"healthicon": "beleth",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		165,
+		201
+	],
+	"camera_position": [
+		-500,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

@@ -3,18 +3,22 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "weekbon",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekbon",
 	"startUnlocked": false,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"bonnie",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"habeneroheat",
-			"bonnie",
+			"bonniemad",
 			[
 				0,
 				233,
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"bonnie",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Hell charts"
+	"hideStoryMode": true,
+	"weekName": "Hell charts",
+	"hiddenUntilUnlocked": false
 }
