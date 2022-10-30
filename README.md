@@ -5,6 +5,9 @@ i cannot program worth beans. i'm using github primarily to track how much progr
 holy shit
 i actually made edits to the source code to actually make it look a little more professional
 
+# chromatics pls?
+-> https://github.com/EleenTyasi/VsFloraverseChromatics <-
+
 # i wanna play it!
 cool! check the releases tab for more information!
 
