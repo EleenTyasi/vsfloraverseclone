@@ -9,7 +9,7 @@ Composers
 Aden::aden::Main Menu Theme::link::0xFFFF78BF
 Badumpadump::badump::Week 1 composer::https://www.fiverr.com/badumpadump::0xFFFF78BF
 Special Thanks
-GlitchedPuppet::glip::Floraverse Writer and Illustrator::https://floraverse.com/::0xFFFF78BF
+GlitchedPuppet::glip::Floraverse Writer, Musician, and Illustrator::https://floraverse.com/::0xFFFF78BF
 Giftfox::gifty::Inspired me to make Vs. Floraverse::https://store.steampowered.com/app/1969850/Downpurr/::0xFFFF78BF
 PolarBun::polar::One hell of a friend, inspired me also to make Vs. FV::https://twitter.com/polarbun::0xFFFF78BF
 NicoTheCinderace::nico::Helped out with publishing the music for Vs. Floraverse to YT.::link::0xFFFF78BF
