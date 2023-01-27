@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				31,
-				-13
+				0,
+				-123
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-8,
-				-73
+				0,
+				-123
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				70
+				0,
+				-123
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-39,
-				-12
+				0,
+				-123
 			],
 			"loop": false,
 			"fps": 24,
@@ -47,7 +47,7 @@
 		{
 			"offsets": [
 				0,
-				-10
+				-123
 			],
 			"loop": false,
 			"fps": 24,
