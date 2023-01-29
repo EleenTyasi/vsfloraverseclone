@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Easy, Normal, Hard, Hellsider",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekbon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Miaomix",
+			"belth",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"PuppetFunk",
+			"belth",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Belpop",
+			"belth",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
