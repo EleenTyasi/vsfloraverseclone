@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "projecthalitite",
+	"description": "base code for vs floraverse",
 	"restart":false,
 	"color": [170, 0, 255]
 }

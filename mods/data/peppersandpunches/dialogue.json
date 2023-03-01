@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "... Yeah!~",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay... So, you're still gonna keep at it, huh? Fine by me! I'm having fun with this!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie"
+		},
+		{
+			"expression": "talk",
+			"text": "Way to go, BF! Though, I got a strange feeling like she has something she's not trying yet...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beh, Ai ai, skedupopbedu. Skadaikai. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "He's saying to step it up, dude. He's practically falling asleep here. ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bonnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sassy little shit, aren'tcha. Okay, then. We'll see who's confident after this..."
+		}
+	]
+}

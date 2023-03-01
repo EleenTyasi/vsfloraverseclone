@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Idle",
+	"image": "Menu_furry2",
+	"position": [
+		180,
+		161
+	],
+	"flipX": false,
+	"scale": 0.4,
+	"confirm_anim": "M Dad Idle"
+}

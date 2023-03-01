@@ -1,0 +1,38 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "weekbonnieStage",
+		"player1": "bf",
+		"player2": "bonniemad",
+		"events": [],
+		"notes": [
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 176,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "battleintheparkinglot"
+	}
+}
