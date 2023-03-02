@@ -1,20 +1,4 @@
 {
-	"storyName": "Spice Savant",
-	"difficulties": "Easy, Normal, Hard, ExtraHot",
-	"hideFreeplay": false,
-	"weekBackground": "bonnie",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"bonnie",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"bonbeat",
@@ -44,7 +28,23 @@
 			]
 		]
 	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bonnie",
+	"difficulties": "Easy, Normal, Hard, ExtraHot",
+	"weekCharacters": [
+		"bonnie",
+		"bf",
+		"gf"
+	],
+	"storyName": "Spice Savant",
+	"weekName": "bonbattle",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"weekName": "Vs. Bonnie",
-	"hiddenUntilUnlocked": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
