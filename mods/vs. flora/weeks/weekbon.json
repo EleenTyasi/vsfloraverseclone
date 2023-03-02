@@ -31,7 +31,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
-	"difficulties": "Easy, Normal, Hard, ExtraHot",
+	"difficulties": "Easy, Normal, Hard, extrahot",
 	"weekCharacters": [
 		"bonnie",
 		"bf",
