@@ -31,14 +31,14 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
-	"difficulties": "Easy, Normal, Hard, xtrahot",
+	"difficulties": "easy, normal, hard, xtrahot",
 	"weekCharacters": [
 		"bonnie",
 		"bf",
 		"gf"
 	],
 	"storyName": "Vs. Bonnie",
-	"weekName": "bonbattle",
+	"weekName": "wekbon",
 	"freeplayColor": [
 		146,
 		113,
