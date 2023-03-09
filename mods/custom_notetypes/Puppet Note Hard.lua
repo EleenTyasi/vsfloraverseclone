@@ -2,7 +2,7 @@ function onCreate()
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Puppet Note Hard' then  --Checks if the note is the one in the script. Set this to the name of your file.
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'puppetnote'); --Changes the texture to your own
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'PUPPETNOTE_assets'); --Changes the texture to your own
 			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '0.044'); --Default is 0.023, sets the value you get on hit
 			setPropertyFromGroup('unspawnNotes', i, 'missHealth', '1'); --Default is 0.0475, sets the value you get on miss
 			setPropertyFromGroup('unspawnNotes', i, 'hitCausesMiss', false);
