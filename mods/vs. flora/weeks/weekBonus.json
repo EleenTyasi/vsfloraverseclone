@@ -2,15 +2,19 @@
 	"storyName": "Crossover Clash",
 	"difficulties": "Hardcore",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "weekbel",
+	"weekBackground": "bonnie",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekbel",
 	"startUnlocked": false,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"battleintheparkinglot",
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": true,
-	"weekName": "Bonus Week"
+	"hideStoryMode": false,
+	"weekName": "Bonus Week",
+	"hiddenUntilUnlocked": true
 }
