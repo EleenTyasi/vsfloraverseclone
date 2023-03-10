@@ -1,5 +1,5 @@
 {
-	"storyName": "Crossover Clash",
+	"storyName": "Gravity Break",
 	"difficulties": "Hardcore",
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
@@ -8,8 +8,8 @@
 		113,
 		253
 	],
-	"weekBefore": "weekbel",
-	"startUnlocked": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
@@ -26,7 +26,7 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Bonus Week",
-	"hiddenUntilUnlocked": true
+	"hideStoryMode": true,
+	"weekName": "bonus",
+	"hiddenUntilUnlocked": false
 }
