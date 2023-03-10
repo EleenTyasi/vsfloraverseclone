@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="HotHead.png"><SubTexture name="HotHead Right0000" x="0" y="0" width="1168" height="924" frameX="0" frameY="0" frameWidth="1168" frameHeight="924" />
+<TextureAtlas imagePath="HotHead.png">
+<SubTexture name="HotHead Right0000" x="0" y="0" width="1168" height="924" frameX="0" frameY="0" frameWidth="1168" frameHeight="924" />
 <SubTexture name="HotHead Right0001" x="1168" y="0" width="1168" height="924" frameX="0" frameY="0" frameWidth="1168" frameHeight="924" />
 <SubTexture name="HotHead Right0002" x="2336" y="0" width="1168" height="924" frameX="0" frameY="0" frameWidth="1168" frameHeight="924" />
 <SubTexture name="HotHead Right0003" x="3504" y="0" width="1168" height="924" frameX="0" frameY="0" frameWidth="1168" frameHeight="924" />
