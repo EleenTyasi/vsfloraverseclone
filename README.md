@@ -25,31 +25,7 @@ though the first week is my character; the rest of the mod will eventually be ch
 www.floraverse.com
 it's a neat webcomic ig lol
 
-# mechanics guide
-so, here's something to know
-easy will have very little mechanics; it's meant to still provide a challenge yet not to the point of frustration
-medium and hard is the dev intended difficulty however. no content is locked behind a difficulty gate however
+# how nuts will this be eleen
 
-beating a week is considered beating any difficulty, including easy
-
-do not be ashamed if you have to play this mod on easy! i'm not afraid to admit that i have trouble with it
-
-so, week 1's week, otherwise known as Week Bon
-
-# Week Bonnie - Mechanic: Pressure and Crystal Notes
-Pressure starts to build near the end of song two of Week Bonnie. Pressure drains BF's HP when Bonnie sings. Hitting notes may help you to endure her pressure.
-Crystal notes have been changed! Crystal notes now instead deal minor damage to BF when hit, but deal massive damage when missed! These notes should be hit; or else you're in for 
-a world of hurt!
-
-# Week Beleth - Mechanic: Puppet Notes
-Puppet Notes MUST BE HIT! They WILL KO you on hard, and deal catastrophic damage if you miss them on medium! 
-Fun Fact: The arrows match each one of Beleth's puppets, as well as themself. Hold notes are meant to have the look of Beleth's wand.
-Puppet notes only appear on Hard and Medium. 
-Crystal notes appear instead on easy. 
-
-# Week Hothead - Mechanic: Overheat
-Overheat, due to the presence of a HOTHEAD type angel is a status effect. As you play the song, the aura coming from this angel singes your healthbar. 
-This singe, deals gradual HP drain while BF sings. On all difficulties however, Overheat cannot be lethal. It won't lower you beyond a quarter of your HP. 
-On hard, the drain is intense, because the angel's rage is like an eternal flame, baby. 
-On normal, the drain is fast, but managable, because he's mad, but not too mad.
-On easy, the drain is akin to Pressure. He's not mad, just grumpy. 
+probably not as crazy as the other FNF mods
+but i'm putting as much effort as i can into this mod
