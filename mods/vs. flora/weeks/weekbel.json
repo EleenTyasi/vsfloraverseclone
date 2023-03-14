@@ -2,16 +2,16 @@
 	"storyName": "Vs. Vassal Beleth",
 	"difficulties": "Easy, Normal, Hard, Hellsider",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "bonnie",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"weekBefore": "weekbon",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"furry2",
 		"bf",
 		"gf"
 	],
@@ -43,9 +43,8 @@
 				253
 			]
 		]
-
 	],
 	"hideStoryMode": false,
 	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": true
+	"hiddenUntilUnlocked": false
 }
