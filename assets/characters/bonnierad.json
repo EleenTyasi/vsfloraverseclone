@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				20,
-				-123
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
-		},
-		{
-			"offsets": [
-				-10,
-				-163
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
-		},
-		{
-			"offsets": [
-				-10,
-				-62
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
-		},
-		{
-			"offsets": [
-				-30,
-				-120
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
-		},
-		{
-			"offsets": [
 				0,
-				-120
+				1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Idle"
+			"name": "bonnie_idle"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bonnie_down"
+		},
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bonnie_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bonnie_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bonnie_left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/furry2",
+	"image": "characters/bonnie",
 	"position": [
-		0,
-		-30
+		-30,
+		170
 	],
-	"healthicon": "belth",
+	"healthicon": "bonnierad",
 	"flip_x": false,
 	"healthbar_colors": [
-		240,
-		0,
-		155
+		160,
+		135,
+		255
 	],
 	"camera_position": [
-		-140,
-		20
+		0,
+		0
 	],
-	"sing_duration": 6.1,
-	"scale": 0.7
+	"sing_duration": 4,
+	"scale": 1
 }

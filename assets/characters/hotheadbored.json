@@ -4,75 +4,75 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-123
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Left",
+			"name": "HotHead Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				-123
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-123
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-123
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				-123
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Idle",
+			"name": "HotHead Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HotHead Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HotHead Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HotHead Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/furry2",
+	"image": "characters/HotHead",
 	"position": [
 		0,
-		-30
+		0
 	],
-	"healthicon": "belth",
+	"healthicon": "hotheadbored",
 	"flip_x": false,
 	"healthbar_colors": [
-		100,
-		0,
-		75
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		-140,
-		20
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 0.7
+	"scale": 0.6
 }
