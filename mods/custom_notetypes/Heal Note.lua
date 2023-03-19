@@ -3,7 +3,7 @@ function onCreate()
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Heal Note' then  --Checks if the note is the one in the script. Set this to the name of your file.
 			setPropertyFromGroup('unspawnNotes', i, 'texture', 'HEALNOTE_assets'); --Changes the texture to your own
-			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '0.6555'); --Default is 0.023, sets the value you get on hit
+			setPropertyFromGroup('unspawnNotes', i, 'hitHealth', '0.5555'); --Default is 0.023, sets the value you get on hit
 			setPropertyFromGroup('unspawnNotes', i, 'missHealth', '0.005'); --Default is 0.0475, sets the value you get on miss
 			setPropertyFromGroup('unspawnNotes', i, 'hitCausesMiss', false);
 

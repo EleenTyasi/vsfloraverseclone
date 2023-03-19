@@ -1,3 +1,28 @@
-Add your custom event's .txt file and .lua file here
 
-The .txt file is the event's description on Chart Editor
+██╗░░██╗███████╗██╗░░░░░██╗░░░░░░█████╗░
+██║░░██║██╔════╝██║░░░░░██║░░░░░██╔══██╗
+███████║█████╗░░██║░░░░░██║░░░░░██║░░██║
+██╔══██║██╔══╝░░██║░░░░░██║░░░░░██║░░██║
+██║░░██║███████╗███████╗███████╗╚█████╔╝
+╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░
+
+
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+put file at the (mods/data/'song data') or (mods/scripts)
+
+██████╗░██╗░░░░░░██████╗  ░█████╗░██████╗░███████╗██████╗░██╗████████╗  ███╗░░░███╗███████╗
+██╔══██╗██║░░░░░██╔════╝  ██╔══██╗██╔══██╗██╔════╝██╔══██╗██║╚══██╔══╝  ████╗░████║██╔════╝
+██████╔╝██║░░░░░╚█████╗░  ██║░░╚═╝██████╔╝█████╗░░██║░░██║██║░░░██║░░░  ██╔████╔██║█████╗░░
+██╔═══╝░██║░░░░░░╚═══██╗  ██║░░██╗██╔══██╗██╔══╝░░██║░░██║██║░░░██║░░░  ██║╚██╔╝██║██╔══╝░░
+██║░░░░░███████╗██████╔╝  ╚█████╔╝██║░░██║███████╗██████╔╝██║░░░██║░░░  ██║░╚═╝░██║███████╗
+╚═╝░░░░░╚══════╝╚═════╝░  ░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝░░░╚═╝░░░  ╚═╝░░░░░╚═╝╚══════╝
