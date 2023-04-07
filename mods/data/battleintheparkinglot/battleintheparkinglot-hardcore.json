@@ -4966,7 +4966,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "nogf",
+		"gfVersion": "flora-gf",
 		"splashSkin": "noteSplashes",
 		"song": "battleintheparkinglot",
 		"validScore": true,

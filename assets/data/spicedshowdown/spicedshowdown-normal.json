@@ -4491,7 +4491,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gf-flora",
 		"splashSkin": "noteSplashes",
 		"song": "spicedshowdown",
 		"validScore": true,
