@@ -1,0 +1,181 @@
+{
+	"song": {
+		"events": [
+			[
+				3833.33333333333,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				5000,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				15666.6666666667,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				26333.3333333333,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				37000,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53166.6666666667,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					],
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				63833.3333333333,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				74500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89333.3333333333,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90166.6666666667,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				100833.333333333,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
