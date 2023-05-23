@@ -1,26 +1,37 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				1102,
 				417
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "combobreak",
-			"loop": false,
-			"name": "ComboBreak"
+			"fps": 24,
+			"name": "ComboBreak",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1101,
+				419
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Idle",
+			"indices": []
 		},
 		{
 			"offsets": [
-				1102,
-				419
+				1100,
+				421
 			],
 			"indices": [],
-			"fps": 20,
-			"anim": "idle",
-			"loop": true,
-			"name": "Idle"
+			"fps": 24,
+			"anim": "sad",
+			"loop": false,
+			"name": "ComboBreak"
 		}
 	],
 	"no_antialiasing": false,
@@ -40,6 +51,6 @@
 		0,
 		0
 	],
-	"sing_duration": 6.1,
+	"sing_duration": 5,
 	"scale": 0.9
 }
