@@ -1,5 +1,5 @@
 function onCreatePost()
-        botplayTxtRandom = getRandomInt(1,30)
+        botplayTxtRandom = getRandomInt(1,36)
 end
 
 function onUpdate()
@@ -101,5 +101,20 @@ function onUpdate()
         end
         if botplayTxtRandom == 30 then
         setTextString("botplayTxt", "I declare your score zero!")
+        end
+        if botplayTxtRandom == 31 then
+        setTextString("botplayTxt", "Botplay engaged! Warning: Expect random dance moves and questionable rhythm!")
+        end
+        if botplayTxtRandom == 32 then
+        setTextString("botplayTxt", "Arrr, me matey! Ye be sailin' with Botplay, but beware, no scores shall ye earn on this voyage!")
+        end
+        if botplayTxtRandom == 33 then
+        setTextString("botplayTxt", "PSA: Scores are endangered! Disable Botplay to save them!")
+        end
+        if botplayTxtRandom == 34 then
+        setTextString("botplayTxt", "Turn off Botplay, or your scores might just vanish. Capisce?")
+        end
+        if botplayTxtRandom == 35 then
+        setTextString("botplayTxt", "No score will be saved. It seems you're experiencing a skill issue!")
         end
 end

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"bonbeat-classic",
+			"bonnie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"peppersandpunches-classic",
+			"bonnie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"spicedshowdown-classic",
+			"bonnie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bonnie",
+	"difficulties": "Easy, Normal, Hard, Hellsider",
+	"weekCharacters": [
+		"",
+		"bonnie",
+		""
+	],
+	"storyName": "This shouldn't appear, should it?",
+	"weekName": "Classic Week Bon",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

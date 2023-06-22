@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				7250,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				11250,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				41625,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				45500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				53500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				57500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				65500,
+				[
+					[
+						"Toggle Ghost Trail",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

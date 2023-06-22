@@ -28,6 +28,6 @@ oh. i just remembered something
 
 you might want to take a look at the surfnet, heard there's a good webcomic somewhere
 
-ps: when you launch the recording software, you might see something that ain't meant to be there. someone's trying to fix that bug
+ps: when you launch the recording playback software, you might see something that ain't meant to be there. someone's trying to fix that bug
 
 <end transmission>
