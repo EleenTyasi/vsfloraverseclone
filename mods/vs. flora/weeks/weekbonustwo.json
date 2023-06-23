@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"glitcher-belmix",
+			"belth",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tigertussle",
+			"bonniemad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bonnie",
+	"difficulties": "Easy, Normal, Hard, Hellsider",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Bonus Songs v2.5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
