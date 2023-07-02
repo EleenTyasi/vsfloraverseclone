@@ -16,7 +16,8 @@ Composers
 Aden::aden::Main Menu Theme::link::0xFFFF78BF
 Badumpadump::badump::Week 1 Original Composer::https://www.fiverr.com/badumpadump::0xFFFF78BF
 Xyle::xyle::Week 2 + 3 Composer::link::0xFFFF78BF
-Multi::multi::Bonus Song Composer::https://gravitybreak.media/::0xFFFF78BF
+Multi::multi::Battle In The Parking Lot and Week 1 Remaster Composer::https://gravitybreak.media/::0xFFFF78BF
+BlastoiseFan::blastoise::TigerTussle and Glitcher Beleth Mix Composer::link::0xFFFF78BF
 Special Thanks
 GlitchedPuppet::glip::Floraverse Writer, Musician, and Illustrator::https://floraverse.com/::0xFFFF78BF
 Giftfox::gifty::Inspired me to make Vs. Floraverse::https://store.steampowered.com/app/1969850/Downpurr/::0xFFFF78BF
