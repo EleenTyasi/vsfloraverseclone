@@ -47,7 +47,4 @@
 	<SubTexture name="Idle instance 10012" x="3780" y="4958" width="1740" height="1114" frameX="0" frameY="-1" frameWidth="1742" frameHeight="1115"/>
 	<SubTexture name="Idle instance 10013" x="5620" y="4958" width="1740" height="1114" frameX="0" frameY="-1" frameWidth="1742" frameHeight="1115"/>
 	<SubTexture name="Idle instance 10014" x="100" y="6172" width="1740" height="1114" frameX="0" frameY="-1" frameWidth="1742" frameHeight="1115"/>
-	<SubTexture name="Idle instance 10015" x="1940" y="6172" width="1740" height="1114" frameX="0" frameY="-1" frameWidth="1742" frameHeight="1115"/>
-	<SubTexture name="Idle instance 10016" x="3780" y="6172" width="1742" height="1114" frameX="0" frameY="-1" frameWidth="1742" frameHeight="1115"/>
-	<SubTexture name="Idle instance 10017" x="5622" y="6172" width="1742" height="1114" frameX="0" frameY="-1" frameWidth="1742" frameHeight="1115"/>
 </TextureAtlas>

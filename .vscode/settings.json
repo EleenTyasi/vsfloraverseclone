@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "noteMiss",
+        "goodNoteHit",
+        "onBeatHit",
+        "opponentNoteHit",
+        "getProperty",
+        "setProperty",
+        "onCreate",
+        "setScrollFactor",
+        "scaleObject"
+    ]
+}

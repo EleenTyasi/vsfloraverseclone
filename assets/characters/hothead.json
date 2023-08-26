@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "HotHead Left"
+			"fps": 24,
+			"name": "HotHead Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "HotHead Idle"
+			"fps": 24,
+			"name": "HotHead Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "HotHead Down"
+			"fps": 24,
+			"name": "HotHead Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "HotHead Up"
+			"fps": 24,
+			"name": "HotHead Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "HotHead Right"
+			"fps": 24,
+			"name": "HotHead Right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/HotHead",
 	"position": [
-		0,
-		0
+		-420,
+		-90
 	],
 	"healthicon": "hothead",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		0,
-		0
+		160,
+		70
 	],
 	"sing_duration": 6.1,
-	"scale": 0.6
+	"scale": 1
 }
