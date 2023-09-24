@@ -3,7 +3,7 @@ local pressure = 0.01
 -- On missing, check if the pressure is greater than or equal to 0.01. If it is, add 0.021 to the pressure.
 function noteMiss()
     if pressure >= 0.01 then
-        pressure = pressure + 0.022;
+        pressure = pressure + 0.021;
     end
 end
 -- On the player hitting a note, do nothing...
@@ -15,11 +15,7 @@ function onBeatHit()
         function opponentNoteHit()
             health = getProperty('health')
             if getProperty('health') > 0.35 then
-                setProperty('health', health-(pressure * 0.85));
-            -- If the pressure exceeds 3, set the player's health to 0.01. This typically leads to a game over.
-            if pressure == 3 then
-                setProperty('health', 0.01)
-            end
+                setProperty('health', health-(pressure * 0.87));
            end
         end
 end
