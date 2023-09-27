@@ -1,4 +1,4 @@
-local misslimit = 6 -- You can set this to any number you want!
+local misslimit = 8 -- You can set this to any number you want!
 
 function onUpdatePost(elasped)
     setTextString('scoreTxt', 'Score: '.. score .. ' | Misses: '.. misses .. '/'.. misslimit .. ' | Rating: '.. ratingName)
