@@ -3,18 +3,14 @@
 	"difficulties": "Easy, Normal, Hard, Hellsider",
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
+	"weekBefore": "weekbon",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "weekbon",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"furry2",
-		"bf",
-		"gf"
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Miaomix",
@@ -44,7 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "puppetweek",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"furry2",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "puppetweek"
 }
