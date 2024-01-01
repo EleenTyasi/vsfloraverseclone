@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"warmup",
+			"hotheadbored",
+			[
+				146,
+				146,
+				146
+			]
+		],
+		[
+			"flashfire",
+			"hothead",
+			[
+				86,
+				86,
+				86
+			]
+		],
+		[
+			"everburning",
+			"hothead",
+			[
+				26,
+				26,
+				26
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bonnie",
+	"difficulties": "Easy, Normal, Hard, Hellsider",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Hotheaded Hot Bars",
+	"weekName": "Week Hothead",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekbel",
+	"startUnlocked": false
+}
