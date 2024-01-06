@@ -1,16 +1,20 @@
 {
-	"storyName": "Vs. Vassal Beleth",
+	"storyName": "Doll Dance",
 	"difficulties": "Easy, Normal, Hard, Hellsider",
 	"hideFreeplay": false,
-	"weekBackground": "bonnie",
-	"weekBefore": "weekbon",
+	"weekBackground": "beleth",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekbon",
 	"startUnlocked": false,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"beef",
+		"geef",
+		"bonnie"
+	],
 	"songs": [
 		[
 			"Miaomix",
@@ -40,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"furry2",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "puppetweek"
+	"hideStoryMode": false,
+	"weekName": "puppetweek",
+	"hiddenUntilUnlocked": false
 }

@@ -1,4 +1,16 @@
 {
+	"storyName": "Spiced Sing-Off",
+	"difficulties": "easy, normal, hard, hellsider",
+	"hideFreeplay": false,
+	"weekBackground": "bonnie",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"bonbeat",
@@ -28,23 +40,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "bonnie",
-	"difficulties": "easy, normal, hard, hellsider",
 	"weekCharacters": [
-		"bonnie",
-		"bf",
-		"gf"
+		"beef",
+		"geef",
+		"bonnie"
 	],
-	"storyName": "Vs. Bonnie",
-	"weekName": "wekbon",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "wekbon"
 }

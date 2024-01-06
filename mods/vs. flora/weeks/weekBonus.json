@@ -3,14 +3,18 @@
 	"difficulties": "Hardcore",
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
-	"weekBefore": "weekbel",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekhot",
 	"startUnlocked": false,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"battleintheparkinglot",
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": true,
-	"weekName": "bonus"
+	"hideStoryMode": false,
+	"weekName": "bonus",
+	"hiddenUntilUnlocked": true
 }
