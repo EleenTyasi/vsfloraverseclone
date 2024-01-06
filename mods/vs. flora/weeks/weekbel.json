@@ -3,18 +3,14 @@
 	"difficulties": "Easy, Normal, Hard, Hellsider",
 	"hideFreeplay": false,
 	"weekBackground": "beleth",
+	"weekBefore": "weekbon",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "weekbon",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"beef",
-		"geef",
-		"bonnie"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Miaomix",
@@ -44,7 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "puppetweek",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"beef",
+		"geef",
+		"bonnie"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "puppetweek"
 }

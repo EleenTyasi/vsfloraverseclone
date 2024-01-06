@@ -3,18 +3,14 @@
 	"difficulties": "blazinghot",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "weekbel",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "weekbel",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": true,
 	"songs": [
 		[
 			"crystalinespice",
@@ -26,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Nightmare Song",
-	"hiddenUntilUnlocked": true
+	"weekCharacters": [
+		"beef",
+		"geef",
+		"bonnie"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Nightmare Song"
 }

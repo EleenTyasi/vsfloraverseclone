@@ -1,9 +1,9 @@
 {
-	"storyName": "Rage Rock",
-	"difficulties": "Easy, Normal, Hard, Hellsider",
+	"storyName": "Gravity Break",
+	"difficulties": "Hardcore",
 	"hideFreeplay": false,
-	"weekBackground": "hothead",
-	"weekBefore": "weekbel",
+	"weekBackground": "bonnie",
+	"weekBefore": "weekhot",
 	"freeplayColor": [
 		146,
 		113,
@@ -13,30 +13,12 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"warmup",
-			"hotheadbored",
+			"battleintheparkinglot",
+			"bf",
 			[
 				146,
-				146,
-				146
-			]
-		],
-		[
-			"flashfire",
-			"hothead",
-			[
-				86,
-				86,
-				86
-			]
-		],
-		[
-			"everburning",
-			"hothead",
-			[
-				26,
-				26,
-				26
+				113,
+				253
 			]
 		]
 	],
@@ -45,6 +27,6 @@
 		"geef",
 		"bonnie"
 	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Week Hothead"
+	"hiddenUntilUnlocked": true,
+	"weekName": "bonus"
 }

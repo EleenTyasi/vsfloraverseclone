@@ -3,14 +3,18 @@
 	"difficulties": "Easy, Normal, Hard, Hellsider",
 	"hideFreeplay": false,
 	"weekBackground": "bonnie",
-	"weekBefore": "weekbon",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekbon",
 	"startUnlocked": false,
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"beef",
+		"bonnie",
+		"geef"
+	],
 	"songs": [
 		[
 			"bonbeat-classic",
@@ -40,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"bonnie",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Classic Week Bon"
+	"hideStoryMode": true,
+	"weekName": "Classic Week Bon",
+	"hiddenUntilUnlocked": false
 }
