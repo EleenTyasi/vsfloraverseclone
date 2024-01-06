@@ -1,20 +1,42 @@
 {
-	"storyName": "Gravity Break",
-	"difficulties": "Hardcore",
+	"storyName": "Red-Hot Rock",
+	"difficulties": "Easy, Normal, Hard, Hellsider",
 	"hideFreeplay": false,
-	"weekBackground": "bonnie",
-	"weekBefore": "weekhot",
+	"weekBackground": "hothead",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekbel",
 	"startUnlocked": false,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"beef",
+		"geef",
+		"bonnie"
+	],
 	"songs": [
 		[
-			"battleintheparkinglot",
+			"warmup",
 			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"flashfire",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"everburning",
+			"dad",
 			[
 				146,
 				113,
@@ -22,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"beef",
-		"geef",
-		"bonnie"
-	],
-	"hiddenUntilUnlocked": true,
-	"weekName": "bonus"
+	"hideStoryMode": false,
+	"weekName": "hothead",
+	"hiddenUntilUnlocked": true
 }
