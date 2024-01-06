@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"warmup",
+			"hotheadbored",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"flashfire",
+			"hothead",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"everburning",
+			"hothead",
+			[
+				26,
+				26,
+				26
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "hothead",
+	"difficulties": "easy, normal, hard, hellsider",
+	"weekCharacters": [
+		"beef",
+		"geef",
+		"bonnie"
+	],
+	"storyName": "Super Hot",
+	"weekName": "nyarge",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weelnel",
+	"startUnlocked": false
+}
