@@ -1,0 +1,10 @@
+Hello! Creator here.
+
+This script contains:
+- all of the ratings 
+- botplay text (showed when botplay is activate)
+
+How to use:
+Basically replace each "here" (without quotes) with the rating name.
+
+Have fun!
