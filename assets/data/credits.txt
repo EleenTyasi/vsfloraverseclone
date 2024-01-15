@@ -9,6 +9,7 @@ milcano_Arts::milcano::Animated Bonnie::https://www.fiverr.com/milcano_arts::0xF
 Samael::smam::Polished up Week Bonnie's stage design::https://twitter.com/Samael101::0xFFFF78BF
 Skellz::skellz::Animated Flora GF::https://instagram.com/skello.arts?igshid=YmMyMTA2M2Y=::0xFFFF78BF
 Charter
+NightmareXonix::xonix::Guest Charter - Recharted Puppetfunk-Hellsider::link::0xFFFF78BF
 RaidBossKing::raid::Charting Assistance::link::0xFFFF78BF
 Developer
 Eleen::eleen::Plushcat Developer::https://www.youtube.com/channel/UC0szNIccKBHumvT4wMjDd3g::0xFFFF78BF
@@ -17,7 +18,6 @@ Aden::aden::Main Menu Theme::link::0xFFFF78BF
 Badumpadump::badump::Week 1 Original Composer::https://www.fiverr.com/badumpadump::0xFFFF78BF
 Xyle::xyle::Week 2 + 3 Composer::link::0xFFFF78BF
 Multi::multi::Battle In The Parking Lot and Week 1 Remaster Composer::https://gravitybreak.media/::0xFFFF78BF
-BlastoiseFan::blastoise::TigerTussle and Glitcher Beleth Mix Composer::link::0xFFFF78BF
 Special Thanks
 GlitchedPuppet::glip::Floraverse Writer, Musician, and Illustrator::https://floraverse.com/::0xFFFF78BF
 Giftfox::gifty::Inspired me to make Vs. Floraverse::https://store.steampowered.com/app/1969850/Downpurr/::0xFFFF78BF
