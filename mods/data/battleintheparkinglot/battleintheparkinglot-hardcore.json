@@ -110,11 +110,6 @@
 					],
 					[
 						3068.18181818182,
-						0,
-						0
-					],
-					[
-						3068.18181818182,
 						1,
 						255.681818181818
 					],
@@ -144,6 +139,18 @@
 						0,
 						0,
 						"Crystal Note"
+					],
+					[
+						3068.18181818182,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						3920.45454545455,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -182,6 +189,12 @@
 						4687.5,
 						0,
 						511.363636363636
+					],
+					[
+						4602.27272727273,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -359,6 +372,12 @@
 						9289.77272727273,
 						2,
 						170.454545454545
+					],
+					[
+						8778.40909090909,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -411,6 +430,12 @@
 						10738.6363636364,
 						0,
 						0
+					],
+					[
+						9886.36363636364,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -607,7 +632,7 @@
 						14275.5681818182,
 						0,
 						0,
-						"Heal Note"
+						"Crystal Note"
 					],
 					[
 						14446.0227272727,
@@ -2029,6 +2054,12 @@
 						43295.4545454545,
 						3,
 						255.681818181818
+					],
+					[
+						42443.1818181818,
+						0,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2500,6 +2531,12 @@
 						57102.2727272727,
 						2,
 						0
+					],
+					[
+						56164.7727272727,
+						2,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2551,6 +2588,12 @@
 						58380.6818181818,
 						2,
 						170.454545454545
+					],
+					[
+						58124.9999999999,
+						2,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2686,6 +2729,12 @@
 						61107.9545454545,
 						2,
 						170.454545454545
+					],
+					[
+						60852.2727272727,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2777,6 +2826,12 @@
 						0,
 						0,
 						"Crystal Note"
+					],
+					[
+						62897.7272727272,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3121,6 +3176,12 @@
 						73551.1363636363,
 						1,
 						0
+					],
+					[
+						72954.5454545454,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3456,6 +3517,12 @@
 						80284.0909090909,
 						3,
 						0
+					],
+					[
+						79261.3636363636,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3750,6 +3817,30 @@
 						85738.6363636363,
 						3,
 						0
+					],
+					[
+						84715.9090909091,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						84801.1363636364,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						85056.8181818182,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						85056.8181818182,
+						0,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3811,6 +3902,12 @@
 						86164.7727272727,
 						3,
 						0
+					],
+					[
+						86335.2272727273,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -4309,6 +4406,12 @@
 						99375,
 						0,
 						85.2272727272727
+					],
+					[
+						98352.2727272727,
+						0,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -4426,6 +4529,18 @@
 						102102.272727273,
 						2,
 						0
+					],
+					[
+						101505.681818182,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						102102.272727273,
+						3,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -4645,6 +4760,12 @@
 						107471.590909091,
 						3,
 						1022.72727272727
+					],
+					[
+						107301.136363636,
+						1,
+						0,
+						"Hurt Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -4995,6 +5116,106 @@
 				"bpm": 176
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 176,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 176,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 176
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 176
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 176
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 176
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 176
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 176,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -5015,7 +5236,128 @@
 				"mustHitSection": true
 			}
 		],
-		"events": [],
+		"events": [
+			[
+				10312.5,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				13551.1363636364,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				16278.4090909091,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				23693.1818181818,
+				[
+					[
+						"QT Dodge",
+						"two",
+						""
+					]
+				]
+			],
+			[
+				29232.9545454545,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				34346.5909090909,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				41590.9090909091,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				47471.5909090909,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				50625,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				59914.7727272727,
+				[
+					[
+						"QT Dodge",
+						"one",
+						""
+					]
+				]
+			],
+			[
+				86420.4545454545,
+				[
+					[
+						"QT Dodge",
+						"three",
+						"three"
+					]
+				]
+			],
+			[
+				106619.318181818,
+				[
+					[
+						"QT Dodge",
+						"four",
+						"three"
+					]
+				]
+			]
+		],
 		"player2": "bonnierad",
 		"splashSkin": "noteSplashes",
 		"song": "battleintheparkinglot",

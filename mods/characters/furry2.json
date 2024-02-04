@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				18,
 				-125
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-9,
 				-163
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-11,
 				-66
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				-124
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-123
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/furry2",
 	"position": [
 		0,
-		-30
+		-40
 	],
 	"healthicon": "belth",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		155
 	],
 	"camera_position": [
-		-140,
-		20
+		-90,
+		360
 	],
 	"sing_duration": 6.1,
 	"scale": 0.7
