@@ -29,7 +29,7 @@ end
 function onPause()
 	-- Creates the text.
 	-- The values are in order: the message tag, text to display, text width, the x position, and the y position.
-	makeLuaText('antipause', 'No.', 100, 580, 360)
+	makeLuaText('antipause', 'You cannot pause now, There is an enemy nearby!', 100, 580, 360)
 	-- Displays the message. After it has been displayed, it runs a timer,
 	-- that when finished, will remove the message from the screen.
 	addLuaText('antipause')

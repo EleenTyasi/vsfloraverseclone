@@ -1,8 +1,8 @@
-GameTitleStart = 'Vs. Floraverse (Psych Engine) - Crystaline Spice' --game title thith song start
-GameOverTitle = 'Vs. Floraverse (Psych Engine) - Game over...' --game over title
-looseTitle = 'Vs. Floraverse (Psych Engine) - Crystaline Spice' --looser title(if you have < 1 health)
+GameTitleStart = '??? (Psych Engine) - Crystaline Spice' --game title thith song start
+GameOverTitle = '??? (Psych Engine) - Game over...' --game over title
+looseTitle = '??? (Psych Engine) - Crystaline Spice' --looser title(if you have < 1 health)
 maxLooseMisses = 1 --max loose misses
-perfectTitle = 'Vs. Floraverse (Psych Engine) - Crystaline Spice - PFC'
+perfectTitle = '??? (Psych Engine) - Crystaline Spice - PFC'
 
 function onCreate()
     setPropertyFromClass("openfl.Lib", "application.window.title", GameTitleStart)

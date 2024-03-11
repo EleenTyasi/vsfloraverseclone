@@ -1,5 +1,5 @@
 GameTitleStart = 'Vs. Floraverse (Psych Engine) - Belpop' --game title thith song start
-GameOverTitle = 'Vs. Floraverse (Psych Engine) - Game Over!' --game over title
+GameOverTitle = 'Vs. Floraverse (Psych Engine) - So close...!' --game over title
 looseTitle = 'Vs. Floraverse (Psych Engine) - Belpop' --looser title(if you have < 1 health)
 maxLooseMisses = 1 --max loose misses
 perfectTitle = 'Vs. Floraverse (Psych Engine) - Belpop - PFC'
