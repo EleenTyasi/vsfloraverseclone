@@ -3788,24 +3788,24 @@
 					[
 						96648.6486486486,
 						6,
-						567.567567567568
+						486.486486486487
 					],
 					[
 						96648.6486486486,
 						4,
-						567.567567567568,
+						486.486486486487,
 						"Hurt Note"
 					],
 					[
 						96648.6486486486,
 						5,
-						567.567567567568,
+						486.486486486487,
 						"Hurt Note"
 					],
 					[
 						96648.6486486486,
 						7,
-						567.567567567568,
+						486.486486486487,
 						"Hurt Note"
 					],
 					[
@@ -7180,24 +7180,54 @@
 				"bpm": 185
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 185,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 185,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 185,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 185,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 185,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 185,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 185
 			},
 			{
 				"gfSection": false,
@@ -7219,6 +7249,6 @@
 		"stage": "weekbonnieStage",
 		"validScore": true,
 		"bpm": 185,
-		"speed": 2.4
+		"speed": 2.7
 	}
 }

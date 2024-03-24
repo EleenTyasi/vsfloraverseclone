@@ -1,6 +1,10 @@
 tutorial
 weekbon
 weekbel
+weekhot
+weekbonclassic
+weekBonus
+weeknightmare
 week1
 week2
 week3
