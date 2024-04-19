@@ -5,6 +5,10 @@ function noteMiss()
     end
 end
 
+function onUpdatePost(elasped)
+    setTextString('scoreTxt', 'Score: '.. score .. ' | Misses: '.. misses .. ' | Combo Quality: '.. ratingName..' ('.. ratingFC ..') | Pressure: '.. pressure ..'pon')
+end
+
 function goodNoteHit()
 
 end
