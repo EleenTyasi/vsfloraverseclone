@@ -1,0 +1,3 @@
+--This is a comment left for the editor of turn
+@wait time="1s"
+@dialogue pos="L" portrait="bonnie:default" text="This is a test\nof the emergency alert system." dbox="shout" speed="0.05" voclip=null

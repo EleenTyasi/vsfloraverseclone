@@ -1,0 +1,8 @@
+Generates thou text in line with the opponents icon, sets its colour to the opponent icon one then goes to white
+also fades after like 2 seconds if you dont manually make it blank
+
+value 1: the text
+
+value 2: bf or dad (must be those or itll just use whatever the previous text used)
+
+by Blam_Daylight credit if used silly fellas

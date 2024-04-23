@@ -8,7 +8,7 @@ local dodgeWindowTimer = 0.2;
 local dodging = false;
 local attacking = false;
 local attacked = false;
-
+local pressureVar = 0.01;
 function onCreate()
 		makeAnimatedLuaSprite('warn', 'qt/attack_alert_NEW', 0, 0)
 		addAnimationByPrefix('warn', 'one', 'kb_attack_animation_alert-single0', 24, false)
@@ -176,14 +176,18 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		dodging = false
 	end
 	if tag == 'attackTimer' then
-		if not getProperty("cpuControlled") == true then
-			if dodging == false then
-				health = getProperty('health')
-				setProperty('health',  health - (pressure * 1.3));
-				pressure = pressure + 0.008
+		if not getProperty("cpuControlled") == true then -- if the player isn't playing botplay, then...
+			if dodging == false then -- if the player failed to dodge...
+				health = getProperty('health') -- get the player's health.
+				setProperty('health',  health - (pressureVar * 2.8)); -- Hit them with a pressure based attack. 
+				pressureVar = pressureVar + 0.028; -- penalize by increasing pressure too.
+				if pressureVar >= 0.4 then -- if pressure is at 0.4 or greater...
+					health = getProperty('health') -- get the victim's health.
+					setProperty('health',  0); -- slaughter the player like a pig. Kill them. Dead.
+				end
 			end
-			if dodging == true then
-				setProperty('health', health + 0.02);
+			if dodging == true then -- if the player dodged...
+				setProperty('health', health + 0.002); -- reward them. this does not affect pressure.
 			end
 		end
 	end
