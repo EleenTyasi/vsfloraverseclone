@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bonnie.png">
+<TextureAtlas imagePath="bf.png">
 	<SubTexture name="deadpan00" x="0" y="0" width="480" height="480"/>
 	<SubTexture name="angry00" x="480" y="0" width="480" height="480"/>
 	<SubTexture name="scared00" x="960" y="0" width="480" height="480"/>

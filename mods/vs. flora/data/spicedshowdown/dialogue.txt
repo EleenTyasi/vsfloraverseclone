@@ -1,0 +1,15 @@
+--This is a comment left for the editor of turn
+@wait time="1s"
+@dialogue pos="L" portrait="bonnie:angry" nameTag="Bonnie" text="YOU LITTLE SHIT!\n I know what those beeps and boops mean!!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:angry" nameTag="Bonnie" text="If I had half a mind,\nI'd say you were tryin' ta pick a fight!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:smug" nameTag="BF" text="Beep~" dbox="normal" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:challenge" nameTag="BF" text="Skehhhdap!" dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:angry" nameTag="Bonnie" text="Fuck you mean, nuh-uh?!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:angry" nameTag="Bonnie" text="Yer really startin' to annoy me." dbox="shout" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:smug" nameTag="BF" text="Skehhh..." dbox="normal" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:challenge" nameTag="BF" text="Beboop peebo!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:deadpan" nameTag="Bonnie" text="So that's how it's gonna be?" dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:deadpan" nameTag="Bonnie" text="..." dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:deadpan" nameTag="Bonnie" text="I've decided something." dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:angry" nameTag="Bonnie" text="I'm sick of your shit!\n I DECLARE WAR!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:scared" nameTag="BF" text="oh crap." dbox="normal" speed="0.05" voclip=null

@@ -1,4 +1,5 @@
-local misslimit = 8 -- You can set this to any number you want!
+math.randomseed(os.time())
+local misslimit = math.random(4,8) -- You can set this to any number you want!
 
 function onUpdatePost(elasped)
     setTextString('scoreTxt', 'Score: '.. score .. ' | '.. misses .. '/'.. misslimit .. ' | Combo Quality: '.. ratingName..' ('.. ratingFC ..')')

@@ -1,5 +1,7 @@
-local pressure = 0.01
+local pressure = 0.01 
+math.randomseed(os.time())
 function onCountdownStarted()
+    EggRoll = math.random(100)
     debugPrint("Current difficulty: " .. tostring(difficulty))  -- Debugging line to check the difficulty being fetched
     if difficulty == 0 then -- If easy, pressure is 0.01
         pressure = pressure + 0.00
@@ -14,7 +16,16 @@ function onCountdownStarted()
         pressure = pressure + 0.03
         debugPrint("Is this set to Hellsider? It should be 0.04.")
     end
-    debugPrint("Pressure set to: " .. tostring(pressure))  -- Debugging line to check the pressure value after the difficulty check. FUCK me if this doesn't work
+    if difficulty == 3 then -- if on hellsider, roll a 100 sided die. if exactly 69, add a nuts amount of pressure.
+        debugPrint("EggRoll is: " .. tostring(EggRoll))  -- Debugging line to check the EggRoll value after the difficulty is checked.
+        if EggRoll == 69 then -- If the Egg Roll is EXACTLY 69, add .65 to the pressure. 
+            pressure = pressure + 0.65
+            debugPrint("EggRoll is 69! Pressure is now: " .. tostring(pressure))  -- Debugging line to check the pressure value after the EggRoll check.
+        else 
+            debugPrint("Roll not successful.")
+        end
+    end
+    debugPrint("Pressure set to: " .. tostring(pressure))  -- Debugging line to check the pressure value after the difficulty check. 
 end
 
 function noteMiss()

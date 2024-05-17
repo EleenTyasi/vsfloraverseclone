@@ -1,3 +1,9 @@
 --This is a comment left for the editor of turn
 @wait time="1s"
-@dialogue pos="L" portrait="bonnie:default" text="This is a test\nof the emergency alert system." dbox="shout" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="... I sure do hope that\nthose two can find my resturaunt." dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="Oh! I think they're here!" dbox="normal" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:default" nameTag="BF" text="Beep, bap!!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:happy" nameTag="Bonnie" text="Oh! Hey, BF!\nI'm guessing you're here for the competition?" dbox="normal" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:happy" nameTag="BF" text="Beep...? Bap?" dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:challenge" nameTag="Bonnie" text="Your first opponent...\nIs me, heheh! Good luck!" dbox="shout" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:challenge" nameTag="BF" text="Beepski!!!" dbox="shout" speed="0.05" voclip=null
