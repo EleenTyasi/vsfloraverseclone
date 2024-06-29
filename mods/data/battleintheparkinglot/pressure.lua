@@ -1,4 +1,4 @@
-pressure = 0.01;
+pressure = 0.08;
 function noteMiss()
     if pressure >= 0.01 then
         pressure = pressure + 0.033;

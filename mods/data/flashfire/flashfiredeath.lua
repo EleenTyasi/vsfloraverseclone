@@ -1,7 +1,7 @@
 math.randomseed(os.time())
 function onCreate()
 	-- roll a 3 sided die.
-	deathTauntRandom = getRandomInt(1,3)
+	deathTauntRandom = math.random(1, 3);
 	-- set up roll result, 1-3. play that sound when BF dies.
 	-- man, RecD popped the heck off with his lines.
 	-- I gave good voice direction, then i edited the sound to make it a bit like the character. 

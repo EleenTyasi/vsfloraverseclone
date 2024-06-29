@@ -19,13 +19,13 @@ end
 
 function noteMiss()
     if pressure >= 0.01 then
-        if difficulty == 0 then
+        if difficulty == 0 then -- On easy, add a little bit of pressure.
             pressure = pressure + 0.01
-        elseif difficulty == 1 then
+        elseif difficulty == 1 then -- On normal, add a chunk of pressure.
             pressure = pressure + 0.03
-        elseif difficulty == 2 then
+        elseif difficulty == 2 then -- On hard, add an alarming amount of pressure.
             pressure = pressure + 0.04
-        elseif difficulty == 3 then
+        elseif difficulty == 3 then -- On Hellsider, burn the player for missing badly.
             pressure = pressure + 0.05
         end
     end;
@@ -42,7 +42,7 @@ end
 function onBeatHit()
         function opponentNoteHit()
             health = getProperty('health')
-            if getProperty('health') > 0.45 then
+            if getProperty('health') > 0.35 then
                 setProperty('health', health-(pressure * 0.45));
                 
             end

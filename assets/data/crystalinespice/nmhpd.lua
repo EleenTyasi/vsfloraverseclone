@@ -14,7 +14,7 @@ end
 function onBeatHit()
         function opponentNoteHit()
             health = getProperty('health')
-            if getProperty('health') > 0.35 then
+            if getProperty('health') > 0.25 then
                 setProperty('health', health-(pressure * 0.87));
            end
         end

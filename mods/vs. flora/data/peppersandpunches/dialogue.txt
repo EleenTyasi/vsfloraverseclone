@@ -1,11 +1,11 @@
 --This is a comment left for the editor of turn
 @wait time="1s"
-@dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="Whew... You're a tough\n opponent, BF!" dbox="normal" speed="0.05" voclip=null
-@dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="Guess we'll have to\nup our challenge!" dbox="normal" speed="0.05" voclip=null
-@dialogue pos="R" portrait="bf:huh" nameTag="BF" text="Beep...?" dbox="normal" speed="0.05" voclip=null
-@dialogue pos="L" portrait="bonnie:smug" nameTag="Bonnie" text="I'm going to start\ndraining your health while I sing!" dbox="normal" speed="0.05" voclip=null
-@dialogue pos="R" portrait="bf:nervous" nameTag="BF" text="Bap!? Beepbedo!!?" dbox="shout" speed="0.05" voclip=null
-@dialogue pos="L" portrait="bonnie:smile" nameTag="Bonnie" text="Aw, don't be so\nafraid! It won't be able to defeat you." dbox="normal" speed="0.05" voclip=null
-@dialogue pos="R" portrait="bf:default" nameTag="BF" text="Beh! Skeep, bap?" dbox="shout" speed="0.05" voclip=null
-@dialogue pos="L" portrait="bonnie:smug" nameTag="Bonnie" text="Oh! Yeah, the crystal notes?\n Don't miss those.~" dbox="normal" speed="0.05" voclip=null
-@dialogue pos="R" portrait="bf:guilty" nameTag="BF" text="Bep..." dbox="normal" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="Whew... You're a tough\n opponent, BF!" dbox="bonnie" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="Guess we'll have to\nup our challenge!" dbox="bonnie" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:huh" nameTag="BF" text="Beep...?" dbox="bf" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:smug" nameTag="Bonnie" text="I'm going to start\ndraining your health while I sing!" dbox="bonnie" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:nervous" nameTag="BF" text="Bap!? Beepbedo!!?" dbox="bf" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:smile" nameTag="Bonnie" text="Aw, don't be so\nafraid! It won't be able to defeat you." dbox="bonnie" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:default" nameTag="BF" text="Beh! Skeep, bap?" dbox="bf" speed="0.05" voclip=null
+@dialogue pos="L" portrait="bonnie:smug" nameTag="Bonnie" text="Oh! Yeah, the crystal notes?\n Don't miss those.~" dbox="bonnie" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:guilty" nameTag="BF" text="Bep..." dbox="bf" speed="0.05" voclip=null
