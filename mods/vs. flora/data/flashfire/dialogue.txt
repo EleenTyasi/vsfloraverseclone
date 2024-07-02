@@ -1,0 +1,11 @@
+--This is a comment left for the editor of turn
+@wait time="3s"
+@dialogue pos="L" portrait="hothead:pissed" nameTag="Hothead" text="FORGET THAT!!! THAT SONG WAS WAY TOO FUCKING EASY." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:well" nameTag="Hothead" text="LISTEN HERE. THIS ISN'T CANON, WON'T EVER BE." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:well" nameTag="Hothead" text="NINETY PERCENT SURE ELEEN IS EITHER NOT TRYING HARD ENOUGH" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:well" nameTag="Hothead" text="OR SHE'S TRYING TOO LITTLE" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:accuse" nameTag="Hothead" text="EITHER WAY. BOYFRIEND." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:accuse" nameTag="Hothead" text="IM CRANKING UP THE HEAT." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:fuuuuck" nameTag="Hothead" text="(i will need to talk with my agent after this...)" dbox="hothead" speed="0.05" voclip=null
+
+

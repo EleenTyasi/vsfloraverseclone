@@ -1,0 +1,10 @@
+--This is a comment left for the editor of turn
+@wait time="1s"
+@dialogue pos="L" portrait="hothead:fuuuuck" nameTag="Hothead" text="GOD" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:fuuuuck" nameTag="Hothead" text="FUCKING" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:pissed" nameTag="Hothead" text="DAMN IT!" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:accuse" nameTag="Hothead" text="SHUT YOUR MOUTH!" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:accuse" nameTag="Hothead" text="I'M GONNA DO SOMETHING DIFFERENT THIS TIME." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:well" nameTag="Hothead" text="IM GOING TO SCREAM SO LOUD" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:pissed" nameTag="Hothead" text="THAT I MESS WITH THE DAMN CAMERA" dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:accuse" nameTag="Hothead" text="TRY HITTING THOSE NOTES NOW, ASSHOLE!" dbox="hothead" speed="0.05" voclip=null

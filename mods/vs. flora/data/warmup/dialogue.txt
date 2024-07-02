@@ -1,0 +1,5 @@
+--This is a comment left for the editor of turn
+@wait time="3s"
+@dialogue pos="L" portrait="hothead:happy" nameTag="Hothead" text="AH, ITS MY TURN?\nFUCKING FINALLY." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:default" nameTag="Hothead" text="WONDER IF YOU CAN HANDLE THE HEAT." dbox="hothead" speed="0.05" voclip=null
+@dialogue pos="L" portrait="hothead:accuse" nameTag="Hothead" text="LETS SPIT SOME FIRE." dbox="hothead" speed="0.05" voclip=null
