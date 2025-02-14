@@ -4,6 +4,6 @@
 @dialogue pos="L" portrait="bonnie:default" nameTag="Bonnie" text="Oh! I think they're here!" dbox="bonnie" speed="0.05" voclip=null
 @dialogue pos="R" portrait="bf:default" nameTag="BF" text="Beep, bap!!" dbox="bf" speed="0.05" voclip=null
 @dialogue pos="L" portrait="bonnie:happy" nameTag="Bonnie" text="Oh! Hey, BF!\nI'm guessing you're here for the competition?" dbox="bonnie" speed="0.05" voclip=null
-@dialogue pos="R" portrait="bf:happy" nameTag="BF" text="Beep...? Bap?" dbox="bonnie" speed="0.05" voclip=null
+@dialogue pos="R" portrait="bf:happy" nameTag="BF" text="Beep...? Bap?" dbox="bf" speed="0.05" voclip=null
 @dialogue pos="L" portrait="bonnie:challenge" nameTag="Bonnie" text="Your first opponent...\nIs me, heheh! Good luck!" dbox="bonnie" speed="0.05" voclip=null
 @dialogue pos="R" portrait="bf:challenge" nameTag="BF" text="Beepski!!!" dbox="bf" speed="0.05" voclip=null
